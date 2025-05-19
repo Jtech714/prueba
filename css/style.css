@@ -8,3 +8,9 @@ a {
     font-size: 60px;
     font-style: italic;
 }
+h1 {
+    color:brown;
+    font-size: 60px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
