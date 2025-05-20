@@ -1,13 +1,13 @@
 p   {
     color:blueviolet;
     font-size: 30px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "Lobster", cursive;
     font-weight: bolder;
     text-align: center;
     text-decoration: overline;
     line-height: 2;
     text-transform: capitalize;
-    font-style: italic;
+    
 }
 a {
     text-decoration: none;
@@ -18,7 +18,6 @@ ul {
     color:chartreuse;
     font-size: 30px;
     font-style: italic;
-    font-family:Impact,sans-serif;
     text-align: center;
     font-weight: bold;
 }
@@ -27,12 +26,13 @@ h1 {
     font-size: 60px;
     font-family:'Times New Roman', Times, serif;
     text-align: center;
-    letter-spacing: 10px;
+    letter-spacing: 10px; 
+    font-family: "Alfa", "Lobster", sans-serif;
 }
 span {
     color:seagreen;
     font-size: 30px;
-    font-family: 'Courier New', Courier, monospace;
+     font-family: "Lobster", cursive;
     font-weight: bolder; 
     
 }
