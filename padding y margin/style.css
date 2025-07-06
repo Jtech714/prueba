@@ -3,11 +3,19 @@
     padding: 30px;
 }
 .formulario_input {
-    padding: 6px 10px;
+    padding: 10px 5px;
     width: 100%;
+    background-color: yellow;
+    color: red;
 }
 .formulario_submit {
     letter-spacing: 2px;
     text-transform: uppercase;
     background-color: yellowgreen;
+}
+.box {
+    background-color: lightblue;
+    height: 200px;
+    width: 75%;   
+    margin: 50px 75px;
 }
