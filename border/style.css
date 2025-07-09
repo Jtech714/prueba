@@ -1,0 +1,16 @@
+div {
+    background-color: blueviolet;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    border: 10px double black;
+    border-radius: 10px 20px 10px 20px;
+}
+input {
+    margin: 5px;
+    padding: 3px;
+    border: none;
+    background-color: lightblue;
+    border-top: 2px solid black;
+
+}
