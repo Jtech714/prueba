@@ -12,6 +12,7 @@ font-family: "Alfa", cursive;
     width: 400px;
     margin: auto;
 }
+
 h1 {
     padding-top: 20px;
     src: url("lobster/Lobster-Regular.ttf") format("truetype");
@@ -20,11 +21,13 @@ h1 {
     margin: 0;
 
 }
+
 h2 {
     font-size: 15px;
     font-weight: 100;
     letter-spacing: 2px;
 }
+
 p {
     font-size: 12px;
     padding: 20px;
