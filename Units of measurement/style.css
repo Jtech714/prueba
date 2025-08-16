@@ -1,0 +1,26 @@
+div{
+    background-color: #ededed;
+    padding: .2in;
+    font-family: 'Times New Roman', Times, serif;
+    border-left: 5px solid #99c;
+    font-size: 30px;
+    width: 50vw;
+    height: 30%;
+}
+h1{
+    margin: 2px;
+    font-size: 30px;
+    background-color: aqua;
+}
+span{
+    color: #999;
+    font-size: .5em;
+    font-weight: 100;
+
+}
+p{
+    color: #555;
+    text-align: justify;
+    font-size: .5em;
+
+}
