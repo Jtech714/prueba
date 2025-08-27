@@ -1,0 +1,11 @@
+body {
+    background-color: brown;
+
+}
+.box {
+    width: 200px;
+    height: 200px;
+    margin: 35%;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKz0jrepJ8GC3-foTKRr9ClJhf7XjtOvnI_g&s) top / cover #92b7;
+;
+}
