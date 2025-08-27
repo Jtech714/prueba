@@ -6,6 +6,18 @@ body {
     width: 200px;
     height: 200px;
     margin: 35%;
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKz0jrepJ8GC3-foTKRr9ClJhf7XjtOvnI_g&s) top / cover #92b7;
-;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKz0jrepJ8GC3-foTKRr9ClJhf7XjtOvnI_g&s) top / cover #92b7 ;
+}
+.grad {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    margin: 20%;
+    background: linear-gradient(to top, transparent, #92b7);
+}
+.txt {
+    margin: 0;
+    text-align: center;
+    font-size: 100px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
