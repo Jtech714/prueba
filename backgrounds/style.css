@@ -1,5 +1,5 @@
 body {
-    background-color: brown;
+    background-color: rgb(156, 37, 37);
 
 }
 .box {
@@ -18,6 +18,43 @@ body {
 .txt {
     margin: 0;
     text-align: center;
-    font-size: 100px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
+}
+.sha {
+    width: 400px;
+    padding: 3px;
+    background: #92b7;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 20px 20px 50px #000;
+    color: #000c;
+    font-size: 25px;
+    border-radius: 10% 25% 10% 10%;
+    text-align: center;
+}
+h2 {
+    list-style: none;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 20px 20px 50px #000;
+
+}
+p {
+    list-style: none;
+    text-align: justify;
+    font-family:'Courier New', Courier, monospace;
+    text-shadow: 2px 2px 5px #0003;
+    font-size: 20px;
+    margin: 20px;
+    line-height: 1.25;
+}
+img {
+    padding: 10px 0 0 0;
+    margin: auto;;
+    width: 200px;
+    weight: 200px;
+    border-radius: 100%;
 }
